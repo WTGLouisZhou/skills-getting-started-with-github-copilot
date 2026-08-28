@@ -92,7 +92,8 @@ section h3 {
   font-weight: normal;
 }
 
-.participants ul {
+.participants ul,
+.participant-list {
   display: flex;
   flex-direction: column;
   gap: 5px;
